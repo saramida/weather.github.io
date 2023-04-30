@@ -36,13 +36,9 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _isChecked = false;
   String _myipstr =  "0.0.0.0";
 
-  //String androidTestId = 'ca-app-pub-3940256099942544/6300978111';//'ca-app-pub-4327810986804495/1443213997';
-  //String androidTestId2 = 'ca-app-pub-3940256099942544/6300978111';
-  //String androidTestId3 = 'ca-app-pub-3940256099942544/6300978111';
-
-  String  androidTestId = 'ca-app-pub-4327810986804495/1443213997';
-  String  androidTestId2 = 'ca-app-pub-4327810986804495/6300789008';
-  String  androidTestId3 = 'ca-app-pub-4327810986804495/9557507739';
+  String androidTestId = 'ca-app-pub-3940256099942544/6300978111';
+  String androidTestId2 = 'ca-app-pub-3940256099942544/6300978111';
+  String androidTestId3 = 'ca-app-pub-3940256099942544/6300978111';
 
   BannerAd? bannerAd;
   BannerAd? bannerAd2;
